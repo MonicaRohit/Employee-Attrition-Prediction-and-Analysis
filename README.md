@@ -42,10 +42,11 @@ The app will launch in your web browser, and you can start exploring and predict
 1. Select a department from the sidebar to filter the data.
    
 2.Explore data in various sections:
-    - Data Exploration: View sample data, data shape, information, and summary statistics.
-    - Data Preprocessing: Encode categorical variables for machine learning.
-    - Employee Attrition Prediction: Predict attrition using the Random Forest model.
-    - Most Risky Employees: Identify the most risky employees based on predicted probabilities.
-    - Data Visualization: Explore data through various charts.
+
+   - Data Exploration: View sample data, data shape, information, and summary statistics.
+   - Data Preprocessing: Encode categorical variables for machine learning.
+   - Employee Attrition Prediction: Predict attrition using the Random Forest model.
+   - Most Risky Employees: Identify the most risky employees based on predicted probabilities.
+   - Data Visualization: Explore data through various charts.
     
 3. Customize the app by adding your own analysis and visualization code.
